@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "747762151788",
+    "firebase_url": "https://putriprak8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "putriprak8",
+    "storage_bucket": "putriprak8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747762151788:android:f4ab246f000eb5d3924349",
+        "android_client_info": {
+          "package_name": "com.putri.post8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvIn2iy3VIdnTA5jEC1YiUn9ibjTYARM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747762151788:android:05ad142c4336760c924349",
+        "android_client_info": {
+          "package_name": "com.putri.prak8148"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvIn2iy3VIdnTA5jEC1YiUn9ibjTYARM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
